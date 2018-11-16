@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Calculator</string>
+    <string name="see_our_products" translatable="false">See Our Products</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="enter_your_password" translatable="false">Enter Your Password</string>
+    <string name="enter_your_email" translatable="false">Enter Your Email</string>
+    <string name="enter_your_height" translatable="false">Enter Your Height</string>
+    <string name="enter_your_age" translatable="false">Enter Your Age</string>
+    <string name="enter_first_number">enter first number</string>
+    <string name="enter_second_number">enter second number</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Results</string>
+</resources>

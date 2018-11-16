@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_first_number">" Entrez le premier numéro"</string>
+    <string name="enter_second_number">" Entrez le deuxième numéro"</string>
+    <string name="calculate">" Calculer"</string>
+    <string name="result">" Résultats"</string>
+</resources>
